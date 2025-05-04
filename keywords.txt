@@ -1,0 +1,12 @@
+Encoder	KEYWORD1
+addTick	KEYWORD2
+getTicks	KEYWORD2
+changeResolution	KEYWORD2
+setTimestamp	KEYWORD2
+getTimestamp	KEYWORD2
+setTickInterval	KEYWORD2
+getTickInterval	KEYWORD2
+reset	KEYWORD2
+getRevolutions	KEYWORD2
+getRPM	KEYWORD2
+
